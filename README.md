@@ -1,6 +1,6 @@
-# 🎯 카메라 자세 추정 및 AR 물체 시각화 (Camera Pose Visualizer)
+# 🎯 카메라 자세 추정 및 AR 물체 시각화(Camera Pose Visualizer)
 
-이 프로젝트는 **체스보드 패턴을 이용한 카메라 자세 추정(camera pose estimation)** 을 통해  
+이 프로젝트는 **체스보드 패턴을 이용한 카메라 자세 추정(Camera Pose Estimation)** 을 통해  
 영상 내 3D 위치를 계산하고, 해당 위치에 **간단한 AR 물체**(텍스트 또는 도형)를 표시하는 프로젝트입니다.
 
 ---
