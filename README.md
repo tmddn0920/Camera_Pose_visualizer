@@ -47,18 +47,7 @@
 ### 1. 카메라 캘리브레이션 (한 번만 수행)
 체스보드 이미지 또는 영상을 이용해 카메라 내부 파라미터를 계산합니다.
 
-```bash
-python camera_calibration.py
-```bash
-
 ### 2. 텍스트 AR 실행
-
 ```bash
 python pose_estimation_word.py
-```bash
-
-### 3. 도형 AR 실행
-
-```bash
 python pose_estimation_shape.py
-```bash
